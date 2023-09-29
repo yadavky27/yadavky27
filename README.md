@@ -1,4 +1,4 @@
-![logo] (https://github.com/yadavky27/yadavky27/blob/main/imgae1.jpg)
+![logo](https://github.com/yadavky27/yadavky27/blob/main/imgae1.jpg)
 <h1 align="center">Hi 👋, I'm KRISHNA YADAV</h1>
 <h3 align="center">A passionate Java Fullstack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.clipartmax.com/png/middle/249-2494037_open-working-on-computer-animated-gif.png"
